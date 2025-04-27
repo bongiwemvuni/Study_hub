@@ -10,27 +10,23 @@ Whether you're learning a new language, preparing for exams, or just want to exc
 - Real-time chat and collaboration tools
 - User profiles and topic-specific forums
 
-## Installation
+## Clone the repository using the command below:
+git clone https://github.com/bongiwemvuni/Study_hub.git
 
-### Cloning the Repository
-
-# Clone the repository using the command below:
-git clone https://github.com/bongiwemvuni/Study_hub
-
-# Move into the project directory
+### Move into the project directory
 cd STUDY_HUB
 
-# Create a virtual environment
+### Create a virtual environment
 pip install virtualenv
 virtualenv envname
 
-# Activate the virtual environment
-# Windows
+### Activate the virtual environment
+#### Windows
 envname\Scripts\activate
-# Linux/Mac
+#### Linux/Mac
 source envname/bin/activate
 
-# Install the required packages
+## Install the required packages
 pip install -r requirements.txt
 
 ## Running the App
