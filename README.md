@@ -1,4 +1,4 @@
-# STUDYHUB
+# StudyHub
 
 Study hub is a platform designed to bring people together from around the world to study, share ideas, and collaborate on different topics.  
 Whether you're learning a new language, preparing for exams, or just want to exchange knowledge, Study hub makes it easy to find study partners and grow together.
